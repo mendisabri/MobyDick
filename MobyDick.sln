@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobyDick", "MobyDick\MobyDick.csproj", "{A342C08D-28AB-42CC-96DE-48E040E976EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobyDickSonuc", "MobyDickSonuc\MobyDickSonuc.csproj", "{6CC7BC4C-B65A-4E3E-869C-0E9185C2F7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A342C08D-28AB-42CC-96DE-48E040E976EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A342C08D-28AB-42CC-96DE-48E040E976EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A342C08D-28AB-42CC-96DE-48E040E976EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A342C08D-28AB-42CC-96DE-48E040E976EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC7BC4C-B65A-4E3E-869C-0E9185C2F7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC7BC4C-B65A-4E3E-869C-0E9185C2F7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC7BC4C-B65A-4E3E-869C-0E9185C2F7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC7BC4C-B65A-4E3E-869C-0E9185C2F7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FD9F97-480C-4DDC-AF94-C2FF48AAC0B0}
+	EndGlobalSection
+EndGlobal

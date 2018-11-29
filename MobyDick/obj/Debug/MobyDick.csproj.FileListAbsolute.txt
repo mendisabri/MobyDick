@@ -1,0 +1,7 @@
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\bin\Debug\MobyDick.exe.config
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\bin\Debug\MobyDick.exe
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\bin\Debug\MobyDick.pdb
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\obj\Debug\MobyDick.csproj.CoreCompileInputs.cache
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\obj\Debug\MobyDick.exe
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\obj\Debug\MobyDick.pdb
+C:\Users\AsusNb\source\repos\MobyDick\MobyDick\obj\Debug\MobyDick.csprojAssemblyReference.cache
